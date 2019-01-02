@@ -1,0 +1,27 @@
+.inside {
+    display:flex;
+    justify-content:center; 
+    font-size:50px;
+    background:lightgreen;
+}
+.sologan {
+    display:flex;
+    justify-content:center;
+    background:lightgreen;
+    padding:50px;
+    font-size:23px;    
+}
+.recycle {
+    display:flex;
+    flex-direction:column;
+    text-align:center;
+    align-items:center;
+    background:lightgrey;
+    font-size:28px;
+    
+}
+button {
+  height:35px;
+}
+
+  
